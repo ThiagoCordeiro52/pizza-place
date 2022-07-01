@@ -9,5 +9,16 @@ pizzaJson.map((item, index) => {
   pizzaItem.querySelector('.pizza-item--name').innerHTML = item.name;
   pizzaItem.querySelector('.pizza-item--desc').innerHTML =  item.description;
 
+  pizzaItem.querySelector('a').addEventListener('click', (event) => {
+    event.preventDefault();
+    
+    select('.pizzaWindowArea').style.display.opacity = 0;
+    select('.pizzaWindowArea').style.display = 'flex';
+    setTimeout(() => {
+      select('.pizzaWindowArea').style.opacity = 1;
+    }, 200);
+
+  });
+
   select('.pizza-area').append(pizzaItem);
 });
