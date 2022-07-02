@@ -48,13 +48,13 @@ The following tools were used in the construction of the project:
 ### :dvd: **Running the Project**
 
 ```bash
-# Clone este repositório
+# Clone this repository
 $ git clone https://github.com/ThiagoOliveiraCordeiro/pizza-place.git
 
-# Acesse a pasta do projeto no terminal/cmd
+# Access the project folder in terminal/cmd
 $ cd oracle
 
-# Abrir o projeto em um navegador (de sua preferência)
+# Open the project in a browser (of your choice)
 $ google-chrome index.html
 ```
 
@@ -77,4 +77,4 @@ Done with ❤️ by Thiago Oliveira 👋🏽 Contact me!
 
 <br />
 
-Este projeto é licenciado pelo [MIT](./LICENSE).
+This project is licensed by [MIT](./LICENSE).
