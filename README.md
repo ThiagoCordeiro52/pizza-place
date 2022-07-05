@@ -33,7 +33,7 @@ The following tools were used in the construction of the project:
 - [JavaScript](https://www.javascript.com/)
 
 ---
-### :triangular_ruler: **Status do Projeto**
+### :triangular_ruler: **Project Status**
 
 <h4 align="center"> 
 	👨‍🏫 The project is under development!
